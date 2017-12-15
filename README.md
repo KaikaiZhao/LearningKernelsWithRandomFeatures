@@ -12,4 +12,4 @@ The figure above describes the optimized random features(yellow) seperate synthe
 
 The figure above describes misclassification error of logistic regression model vs. dimensionality of data. GK denotes random features with a Gaussian kernel, and our optimized kernel is denoted OK.
 
-Any question is welcome. Please free to contact me via email or WeChat. Email: zhaojiayi11@nudt.edu.cn   WeChat ID: kluo603548
+Any question is welcome. Please feel free to contact me via email or WeChat. Email: zhaojiayi11@nudt.edu.cn   WeChat ID: kluo603548

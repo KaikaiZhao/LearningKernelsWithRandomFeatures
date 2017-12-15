@@ -1,5 +1,5 @@
 # LearningKernelsWithRandomFeatures
-Experiments based on Aman Sinha's Matlab Implementation in "Learning Kernels with RandomFeatures"(NIPS2016)
+Experiments code is not released. I conducted the experiments based on Aman Sinha's paper "Learning Kernels with RandomFeatures"(NIPS2016)
 
 The two figures are the results of experiment for Sec4.1 in paper.
 
